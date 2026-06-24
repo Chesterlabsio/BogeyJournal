@@ -103,7 +103,7 @@ You may:
 
 To request deletion, contact:
 
-bogeyjournalapp@gmail.com
+support@chesterlabs.io
 
 ---
 
