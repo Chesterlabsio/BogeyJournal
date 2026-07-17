@@ -132,3 +132,9 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 If you have questions about this Privacy Policy, contact:
 
 support@chesterlabs.io
+
+---
+
+## References
+
+Course data by OpenGolfAPI (opengolfapi.org), licensed under ODbL 1.0.
